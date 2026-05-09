@@ -17,3 +17,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theharshaG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
+## Current Focus
+- Embedded Systems
+- ESP32 Projects
+- IoT Automation
+- Flask Backend
+- PCB Design
