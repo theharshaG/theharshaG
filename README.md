@@ -8,10 +8,12 @@
 #  Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theharshaG&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theharshaG&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=theharshaG&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=theharshaG&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theharshaG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
