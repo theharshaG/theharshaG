@@ -10,9 +10,11 @@
 
 ## GitHub Stats
 <div align="center">
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theharshaG&theme=github_dark)
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theharshaG&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theharshaG&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theharshaG&theme=github_dark" />
+
 </div>
 
 ## Current Focus
